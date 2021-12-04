@@ -1,2 +1,2 @@
 # projeto-flexbox
-Projeto do site de turismo usando Flexbox Css 
+Projeto do site FlexTurism usando Flexbox Css 
